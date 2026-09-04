@@ -7,7 +7,7 @@ about:
   head: 299f8e0
   archived: false
   latestVersion: v0.5.0
-  collectedAt: 2026-09-04T19:52:05Z
+  collectedAt: 2026-09-04T20:48:30Z
 timeline:
   created: 2018-07-12
   lastCommit: 2026-05-21
@@ -85,6 +85,74 @@ total:
   openIssue: 21
   commit: 507
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-sigs/krew
+collectedAt: 2026-09-04T20:48:31Z
+loc:
+  Go:
+    code: 7890
+    comments: 1487
+    blanks: 1271
+    files: 84
+  Sh:
+    code: 433
+    comments: 243
+    blanks: 124
+    files: 15
+  Yaml:
+    code: 280
+    comments: 78
+    blanks: 9
+    files: 10
+  Html:
+    code: 174
+    comments: 0
+    blanks: 30
+    files: 12
+  Python:
+    code: 154
+    comments: 32
+    blanks: 42
+    files: 1
+  Css:
+    code: 39
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 18
+    comments: 0
+    blanks: 4
+    files: 1
+  Svg:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 13
+  Dockerfile:
+    code: 9
+    comments: 14
+    blanks: 4
+    files: 1
+  Bash:
+    code: 2
+    comments: 4
+    blanks: 2
+    files: 3
+  Markdown:
+    code: 0
+    comments: 1403
+    blanks: 522
+    files: 44
+  Text:
+    code: 0
+    comments: 74
+    blanks: 6
+    files: 7
+total:
+  code: 9215
+  comments: 3349
+  blanks: 2026
+  files: 192
 ---
 date: "2026-08-24"
 repo:
