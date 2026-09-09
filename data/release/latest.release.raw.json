@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5339254,
       "digest": "sha256:2d60559126452b57e3df0612f0475a473363f064da35f817290dbbcd877d1ea8",
-      "download_count": 3220,
+      "download_count": 3228,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:be5c65670d9bc40429881fa545ce1d91e8648903e058c72e2e7ba378df29cc8e",
-      "download_count": 453,
+      "download_count": 461,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4922381,
       "digest": "sha256:cd6e58b4e954e301abd19001d772846997216d696bcaa58f0bcf04708339ece3",
-      "download_count": 40443,
+      "download_count": 40638,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:e88e85dbca96cf9f6d871516bf0462c3e0fb546965f74bbee9a5a25a9c651cf6",
-      "download_count": 922,
+      "download_count": 928,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5319929,
       "digest": "sha256:5d5a221fffdf331d1c5c68d9917530ecd102e0def5b5a6d62eeed1c404efb28a",
-      "download_count": 1223973,
+      "download_count": 1229621,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:90a59c4e26947121bd2c06b23e436d89c82b712970d9b6b7bbc0fb1a0e1dbb1f",
-      "download_count": 35918,
+      "download_count": 36110,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5038465,
       "digest": "sha256:3bbbbc8876113175513cc483aa824e9e4f190fbecad53c61ea6a42092b1e7214",
-      "download_count": 313,
+      "download_count": 314,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:b9b935271ce603c2b5be89bfc7deb74db6327c291938dc87f615e0aa7abb076a",
-      "download_count": 220,
+      "download_count": 222,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4782540,
       "digest": "sha256:ab7a98b992424e76b6c162f8b67fb76c4b1e243598aa2807bdf226752f964548",
-      "download_count": 175062,
+      "download_count": 175388,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:d54684514a89cdfc753a910705942b67ab19fc40fb9cbe54da5af8baf3fbd71b",
-      "download_count": 2975,
+      "download_count": 2997,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4850581,
       "digest": "sha256:5d172e0a50d2afa0092427e9a9efb7723794c3cac7d0308e4d4f8585b1996f7e",
-      "download_count": 345,
+      "download_count": 346,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:faa5afb6b2f46d8114e2a2554344c44dbac765c8d643497afeb3c0663cae02dc",
-      "download_count": 213,
+      "download_count": 214,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5445808,
       "digest": "sha256:1fbbb665b61d8a42246818eca47b160f1eab20fe9a3673974d1f28a73bcaddf7",
-      "download_count": 12407,
+      "download_count": 12501,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:9e592a6479fbaa345498a6f9ddd5db587a1e748c8c1d91939d0712eb32875545",
-      "download_count": 540,
+      "download_count": 542,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14752768,
       "digest": "sha256:a5cb2f630e6a8e0b8ff238dc77e7288864bb3089783962ec8b08c80f38ca6a91",
-      "download_count": 9140,
+      "download_count": 9171,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:12Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:6564536598fc5d4191ea8ff3c0befff8bceb30f9efbd616bf7b46f8a2d5f1031",
-      "download_count": 757,
+      "download_count": 758,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3534,
       "digest": "sha256:6844d0864e592aa50053c8647708868affadfb9a9b03129992cd985d7d37a374",
-      "download_count": 10550,
+      "download_count": 10577,
       "created_at": "2026-02-26T02:31:11Z",
       "updated_at": "2026-02-26T02:31:11Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.yaml"
