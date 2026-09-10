@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: "v0.1.0-alpha.1"
-  collectedAt: 2026-09-10T20:19:08Z
+  collectedAt: 2026-09-10T23:28:35Z
 timeline:
   created: 2018-07-12
   lastCommit: 2026-05-21
@@ -88,7 +88,7 @@ total:
   commit: 507
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/krew
-collectedAt: 2026-09-10T20:19:11Z
+collectedAt: 2026-09-10T23:28:36Z
 loc:
   Go:
     code: 7890
