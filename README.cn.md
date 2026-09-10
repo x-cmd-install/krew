@@ -4,7 +4,7 @@
 
 📦 Find and install kubectl plugins
 
-![krew](https://repo.x-cmd.io/krew.svg)
+![krew](https://repo.x-cmd.io/krew.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,32 @@ x install krew
 - **最新版本**: `v0.5.0` (2026-02-26)
 - **最近提交**: 2026-05-21
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-02-26T02:31:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [krew-darwin_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [krew-darwin_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz.sha256) | 65 B | `native/darwin/x64` |
+| [krew-darwin_arm64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [krew-darwin_arm64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
+| [krew-linux_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [krew-linux_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [krew-linux_arm.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [krew-linux_arm.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz.sha256) | 65 B | `native/linux/arm` |
+| [krew-linux_arm64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [krew-linux_arm64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [krew-linux_ppc64le.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz) | 4.6 MiB | `native/unknown` |
+| [krew-linux_ppc64le.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz.sha256) | 65 B | `other` |
+| [krew-windows_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz) | 5.2 MiB | `native/win/x64` |
+| [krew-windows_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
+| [krew.exe](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe) | 14.1 MiB | `other` |
+| [krew.exe.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe.sha256) | 65 B | `other` |
+| [krew.yaml](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.yaml) | 3.5 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 7,036 · **Fork**: 411 · **开放 issue**: 388 · **贡献者**: 477
+- **Star**: 7,037 · **Fork**: 411 · **开放 issue**: 388 · **贡献者**: 477
 
 ## 累计统计
 
@@ -72,4 +93,4 @@ krew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:09:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:42Z._

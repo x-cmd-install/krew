@@ -23,11 +23,32 @@ x install krew
 - **Latest**: `v0.5.0` (2026-02-26)
 - **Last commit**: 2026-05-21
 - **Assets in release**: 17
-- **Published**: 2026-02-26T02:31:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [krew-darwin_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [krew-darwin_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_amd64.tar.gz.sha256) | 65 B | `native/darwin/x64` |
+| [krew-darwin_arm64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz) | 4.7 MiB | `native/darwin/arm64` |
+| [krew-darwin_arm64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-darwin_arm64.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
+| [krew-linux_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [krew-linux_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [krew-linux_arm.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [krew-linux_arm.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm.tar.gz.sha256) | 65 B | `native/linux/arm` |
+| [krew-linux_arm64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [krew-linux_arm64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [krew-linux_ppc64le.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz) | 4.6 MiB | `native/unknown` |
+| [krew-linux_ppc64le.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-linux_ppc64le.tar.gz.sha256) | 65 B | `other` |
+| [krew-windows_amd64.tar.gz](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz) | 5.2 MiB | `native/win/x64` |
+| [krew-windows_amd64.tar.gz.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew-windows_amd64.tar.gz.sha256) | 65 B | `native/win/x64` |
+| [krew.exe](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe) | 14.1 MiB | `other` |
+| [krew.exe.sha256](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.exe.sha256) | 65 B | `other` |
+| [krew.yaml](https://github.com/kubernetes-sigs/krew/releases/download/v0.5.0/krew.yaml) | 3.5 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 7,036 · **Forks**: 411 · **Open issues**: 388 · **Contributors**: 477
+- **Stars**: 7,037 · **Forks**: 411 · **Open issues**: 388 · **Contributors**: 477
 
 ## Totals (cumulative)
 
@@ -68,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `krew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/krew.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/krew.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:09:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:55:41Z._
