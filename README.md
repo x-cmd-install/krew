@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,035 · **Forks**: 411 · **Open issues**: 388 · **Contributors**: 479
+- **Stars**: 7,036 · **Forks**: 412 · **Open issues**: 388 · **Contributors**: 480
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 442 · **Open PRs**: 2 · **Closed issues**: 367 · **Open issues**: 21 · **Commits**: 507
+- **Releases**: 16 · **Merged PRs**: 442 · **Open PRs**: 3 · **Closed issues**: 367 · **Open issues**: 21 · **Commits**: 507
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-03-19 | 0 | 1 | 2 | 0 | 2 | 4 |
-| 360d | 2025-09-20 | 1 | 7 | 2 | 3 | 4 | 7 |
-| last720d | 2024-09-25 | 2 | 15 | 2 | 18 | 5 | 17 |
+| 30d | 2026-08-17 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-03-20 | 0 | 1 | 3 | 0 | 2 | 4 |
+| 360d | 2025-09-21 | 1 | 7 | 3 | 3 | 4 | 7 |
+| last720d | 2024-09-26 | 2 | 15 | 3 | 18 | 5 | 17 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T03:29:11Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T03:24:28Z._
