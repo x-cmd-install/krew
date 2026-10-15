@@ -30,9 +30,9 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,040 · **Forks**: 412 · **Open issues**: 389 · **Contributors**: 496
+- **Stars**: 7,040 · **Forks**: 412 · **Open issues**: 389 · **Contributors**: 497
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 1 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-15 | 0 | 2 | 2 | 0 | 1 | 1 |
-| 90d | 2026-07-16 | 0 | 2 | 2 | 1 | 1 | 1 |
-| last180d | 2026-04-17 | 0 | 2 | 2 | 1 | 2 | 4 |
-| 360d | 2025-10-19 | 1 | 8 | 2 | 3 | 4 | 8 |
-| last720d | 2024-10-24 | 2 | 15 | 2 | 18 | 4 | 17 |
+| 30d | 2026-09-15 | 0 | 1 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-16 | 0 | 2 | 2 | 0 | 1 | 1 |
+| 90d | 2026-07-17 | 0 | 2 | 2 | 1 | 1 | 1 |
+| last180d | 2026-04-18 | 0 | 2 | 2 | 1 | 2 | 4 |
+| 360d | 2025-10-20 | 1 | 8 | 2 | 3 | 4 | 8 |
+| last720d | 2024-10-25 | 2 | 15 | 2 | 18 | 4 | 17 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T03:36:41Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T03:16:29Z._
