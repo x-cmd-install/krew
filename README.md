@@ -14,12 +14,12 @@ x install krew
 
 ## Code insight
 
-Total: **9,139** lines of code across **123** files in the top 5 languages.
+Total: **9,336** lines of code across **123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,017 | 1,500 | 1,291 | 85 |
-| Sh | 433 | 243 | 124 | 15 |
+| Go | 8,195 | 1,506 | 1,291 | 85 |
+| Sh | 456 | 244 | 125 | 15 |
 | Yaml | 280 | 78 | 9 | 10 |
 | Html | 174 | 0 | 30 | 12 |
 | Python | 154 | 32 | 42 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.0` (2026-02-26)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 444 · **Open PRs**: 2 · **Closed issues**: 370 · **Open issues**: 19 · **Commits**: 509
+- **Releases**: 16 · **Merged PRs**: 444 · **Open PRs**: 4 · **Closed issues**: 370 · **Open issues**: 19 · **Commits**: 510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-20 | 0 | 2 | 2 | 0 | 1 | 1 |
-| 90d | 2026-07-21 | 0 | 2 | 2 | 1 | 1 | 1 |
-| last180d | 2026-04-22 | 0 | 2 | 2 | 1 | 2 | 4 |
-| 360d | 2025-10-24 | 1 | 8 | 2 | 4 | 3 | 8 |
-| last720d | 2024-10-29 | 2 | 15 | 2 | 19 | 3 | 17 |
+| 30d | 2026-09-20 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-08-21 | 0 | 2 | 4 | 0 | 1 | 2 |
+| 90d | 2026-07-22 | 0 | 2 | 4 | 1 | 1 | 2 |
+| last180d | 2026-04-23 | 0 | 2 | 4 | 1 | 2 | 5 |
+| 360d | 2025-10-25 | 1 | 8 | 4 | 4 | 3 | 9 |
+| last720d | 2024-10-30 | 2 | 15 | 4 | 19 | 3 | 18 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T03:19:32Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T03:28:15Z._
