@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,045 · **Forks**: 412 · **Open issues**: 389 · **Contributors**: 498
+- **Stars**: 7,046 · **Forks**: 412 · **Open issues**: 389 · **Contributors**: 499
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-21 | 0 | 2 | 4 | 0 | 1 | 2 |
-| 90d | 2026-07-22 | 0 | 2 | 4 | 1 | 1 | 2 |
-| last180d | 2026-04-23 | 0 | 2 | 4 | 1 | 2 | 5 |
-| 360d | 2025-10-25 | 1 | 8 | 4 | 4 | 3 | 9 |
-| last720d | 2024-10-30 | 2 | 15 | 4 | 19 | 3 | 18 |
+| 30d | 2026-09-21 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-08-22 | 0 | 2 | 4 | 0 | 1 | 2 |
+| 90d | 2026-07-23 | 0 | 2 | 4 | 1 | 1 | 2 |
+| last180d | 2026-04-24 | 0 | 2 | 4 | 1 | 2 | 5 |
+| 360d | 2025-10-26 | 1 | 8 | 4 | 4 | 3 | 9 |
+| last720d | 2024-10-31 | 2 | 15 | 4 | 19 | 3 | 18 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T03:28:15Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T03:22:44Z._
