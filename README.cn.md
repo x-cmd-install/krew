@@ -26,13 +26,13 @@ x install krew
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.9 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install krew
 
 ## 流行度
 
-- **Star**: 7,046 · **Fork**: 412 · **开放 issue**: 389 · **贡献者**: 499
+- **Star**: 7,047 · **Fork**: 413 · **开放 issue**: 389 · **贡献者**: 499
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 444 · **开放 PR**: 4 · **已关闭 issue**: 370 · **开放 issue**: 19 · **提交数**: 510
+- **发布数**: 16 · **已合并 PR**: 444 · **开放 PR**: 5 · **已关闭 issue**: 370 · **开放 issue**: 19 · **提交数**: 510
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-22 | 0 | 2 | 4 | 0 | 1 | 2 |
-| 90d | 2026-07-23 | 0 | 2 | 4 | 1 | 1 | 2 |
-| last180d | 2026-04-24 | 0 | 2 | 4 | 1 | 2 | 5 |
-| 360d | 2025-10-26 | 1 | 8 | 4 | 4 | 3 | 9 |
-| last720d | 2024-10-31 | 2 | 15 | 4 | 19 | 3 | 18 |
+| 30d | 2026-09-22 | 0 | 0 | 4 | 0 | 1 | 1 |
+| last60d | 2026-08-23 | 0 | 2 | 5 | 0 | 1 | 2 |
+| 90d | 2026-07-24 | 0 | 2 | 5 | 1 | 1 | 2 |
+| last180d | 2026-04-25 | 0 | 2 | 5 | 1 | 2 | 5 |
+| 360d | 2025-10-27 | 1 | 8 | 5 | 4 | 3 | 9 |
+| last720d | 2024-11-01 | 2 | 15 | 5 | 19 | 3 | 18 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ krew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T03:22:44Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T03:21:28Z._

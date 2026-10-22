@@ -26,13 +26,13 @@ Total: **9,336** lines of code across **123** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.9 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,046 · **Forks**: 412 · **Open issues**: 389 · **Contributors**: 499
+- **Stars**: 7,047 · **Forks**: 413 · **Open issues**: 389 · **Contributors**: 499
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 444 · **Open PRs**: 4 · **Closed issues**: 370 · **Open issues**: 19 · **Commits**: 510
+- **Releases**: 16 · **Merged PRs**: 444 · **Open PRs**: 5 · **Closed issues**: 370 · **Open issues**: 19 · **Commits**: 510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-22 | 0 | 2 | 4 | 0 | 1 | 2 |
-| 90d | 2026-07-23 | 0 | 2 | 4 | 1 | 1 | 2 |
-| last180d | 2026-04-24 | 0 | 2 | 4 | 1 | 2 | 5 |
-| 360d | 2025-10-26 | 1 | 8 | 4 | 4 | 3 | 9 |
-| last720d | 2024-10-31 | 2 | 15 | 4 | 19 | 3 | 18 |
+| 30d | 2026-09-22 | 0 | 0 | 4 | 0 | 1 | 1 |
+| last60d | 2026-08-23 | 0 | 2 | 5 | 0 | 1 | 2 |
+| 90d | 2026-07-24 | 0 | 2 | 5 | 1 | 1 | 2 |
+| last180d | 2026-04-25 | 0 | 2 | 5 | 1 | 2 | 5 |
+| 360d | 2025-10-27 | 1 | 8 | 5 | 4 | 3 | 9 |
+| last720d | 2024-11-01 | 2 | 15 | 5 | 19 | 3 | 18 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:22:44Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:21:27Z._
