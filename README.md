@@ -14,7 +14,7 @@ x install krew
 
 ## Code insight
 
-Total: **9,336** lines of code across **123** files in the top 5 languages.
+Total: **9,338** lines of code across **123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,046 · **Forks**: 412 · **Open issues**: 390 · **Contributors**: 500
+- **Stars**: 7,046 · **Forks**: 412 · **Open issues**: 390 · **Contributors**: 501
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 445 · **Open PRs**: 5 · **Closed issues**: 371 · **Open issues**: 19 · **Commits**: 511
+- **Releases**: 16 · **Merged PRs**: 446 · **Open PRs**: 5 · **Closed issues**: 371 · **Open issues**: 19 · **Commits**: 512
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 1 | 3 | 1 | 0 | 2 |
-| last60d | 2026-08-28 | 0 | 3 | 5 | 1 | 1 | 3 |
-| 90d | 2026-07-29 | 0 | 3 | 5 | 1 | 1 | 3 |
-| last180d | 2026-04-30 | 0 | 3 | 5 | 2 | 2 | 6 |
-| 360d | 2025-11-01 | 1 | 9 | 5 | 5 | 3 | 10 |
-| last720d | 2024-11-06 | 2 | 16 | 5 | 19 | 3 | 19 |
+| 30d | 2026-09-28 | 0 | 2 | 3 | 1 | 0 | 3 |
+| last60d | 2026-08-29 | 0 | 4 | 5 | 1 | 1 | 4 |
+| 90d | 2026-07-30 | 0 | 4 | 5 | 1 | 1 | 4 |
+| last180d | 2026-05-01 | 0 | 4 | 5 | 2 | 2 | 7 |
+| 360d | 2025-11-02 | 1 | 10 | 5 | 5 | 3 | 11 |
+| last720d | 2024-11-07 | 2 | 17 | 5 | 19 | 3 | 20 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for krew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T03:46:56Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T04:04:17Z._
